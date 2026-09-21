@@ -1,0 +1,12 @@
+{
+  "name": "DocuWarePohodaSync",
+  "version": "0.1.11",
+  "runtime": "win-x64",
+  "createdAt": "2026-09-21T14:15:50.2462179Z",
+  "package": {
+    "fileName": "DocuWarePohodaSync-0.1.11-win-x64.zip",
+    "sha256": "9660DADD057DEB7300631BF0CF6A9A039BDA423280E723C8193D2FA106939C3E",
+    "sizeBytes": 46159480,
+    "url": "https://raw.githubusercontent.com/tpavelkaa/DocuWarePohodaSync-Updates/main/packages/DocuWarePohodaSync-0.1.11-win-x64.zip"
+  }
+}
