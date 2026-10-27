@@ -1,12 +1,12 @@
 {
   "name": "DocuWarePohodaSync",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "runtime": "win-x64",
-  "createdAt": "2026-10-27T22:02:11.2348578Z",
+  "createdAt": "2026-10-27T22:55:45.5008537Z",
   "package": {
-    "fileName": "DocuWarePohodaSync-0.1.13-win-x64.zip",
-    "sha256": "5284CE974CEA5C4DC70B5A61CB66826D5FBC5E5575A621588BA3844DD909D1DC",
-    "sizeBytes": 46218000,
-    "url": "https://raw.githubusercontent.com/tpavelkaa/DocuWarePohodaSync-Updates/main/packages/DocuWarePohodaSync-0.1.13-win-x64.zip"
+    "fileName": "DocuWarePohodaSync-0.1.14-win-x64.zip",
+    "sha256": "9DEB7C0C573C556272AC4FE11DDFE19A03BB4FF7673DFB6CE8E0518EAC9A1FAA",
+    "sizeBytes": 46231548,
+    "url": "https://raw.githubusercontent.com/tpavelkaa/DocuWarePohodaSync-Updates/main/packages/DocuWarePohodaSync-0.1.14-win-x64.zip"
   }
 }
